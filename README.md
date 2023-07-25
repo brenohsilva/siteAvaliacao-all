@@ -54,7 +54,7 @@ O layout do site está primeiramente voltado para o mobile e em breve teremos a 
 ## Imagens
 
 <p align="center">
-  <img alt="mobile" src="images/all screens.png" width="40%" height="auto">
+  <img alt="mobile" src="images/all screens.png" width="75%" height="auto">
 </p>
 
 <p align="center">
